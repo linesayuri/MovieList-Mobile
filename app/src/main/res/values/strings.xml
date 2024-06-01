@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie-List</string>
+    <string name="text_welcome">Bem-vindo ao</string>
+    <string name="hint_login_email">Email</string>
+    <string name="hint_login_senha">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="text_home_choosecategory">Escolha a categoria de filmes que deseja listar</string>
+    <string name="category_1">Os que estão em alta</string>
+    <string name="category_2">Aclamados pela Crítica</string>
+    <string name="category_3">Os que estão por vir</string>
+    <string name="btn_logout">Sair</string>
+    <string name="btn_back">Voltar</string>
+</resources>
